@@ -1,0 +1,41 @@
+#field{
+    border: 2px solid rgb(100, 202, 234);
+  border-radius: 25px;
+    background-color: rgb(143, 216, 255);
+    padding-left: 100px;
+   box-shadow: 2px 2px 2px 2px rgb(234, 105, 184);
+  text-align:left;
+}
+body{
+  background: rgb(227,9,241);
+  background: radial-gradient(circle, rgba(227,9,241,0.5215336134453781) 0%, rgba(250,227,252,1) 48%, rgba(253,253,253,1) 62%, rgba(200,5,238,1) 100%);
+}
+legend{
+    border: 2px solid rgb(190, 180, 29);
+    border-radius: 10px;
+    background-color: rgb(221, 73, 73);
+}
+#in{
+    width: 200px;
+   height: 25px;
+   border: 1px solid rgb(4, 4, 4) ;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+   border-radius: 3px;
+   padding: 5px;
+}
+#butt{
+    background-color: rgb(0, 162, 255);
+   height: 30px;
+   border: 1px solid rgb(0, 255, 221);
+   border-radius: 10px;
+  margin-bottom: 10%;
+}
+#star{
+ padding-top: 5px;
+}
+td{
+  padding: 8px;
+}
+

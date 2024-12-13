@@ -1,0 +1,15 @@
+.p0{
+    margin-top: 25px;
+    margin-left: 38%;
+    background-color:thistle;
+    height: 40px;
+    width: 350px;
+    border-radius: 10px;
+}
+.iop{
+    margin-left:35px ;
+    margin-top: 45px;
+    display: flex;
+    flex-wrap: wrap; /* Allow items to wrap to the next row */
+    gap: 30px; /* Adjust spacing between movie items */
+}

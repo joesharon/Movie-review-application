@@ -1,0 +1,19 @@
+.all{
+    display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.car1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; 
+
+}
+.im{
+  height: 350px;
+  width: 1200px;
+  margin-bottom: 70px;
+  margin-top: 70px;
+  border-radius: 20px;
+}

@@ -1,0 +1,21 @@
+.frt{
+    background-color: #52ACFF;
+    background-image: linear-gradient(180deg, #52ACFF 25%, #FFE32C 100%);
+    
+    border-style: solid;
+    display: flex;
+    height: 650px;
+    text-align: center;
+   
+}
+.ll{
+    margin-left: 440px;
+    
+    padding-right: 200px;
+}
+.kk{
+    padding-left: 100px;
+    
+    margin-right: 200px;
+
+}

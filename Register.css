@@ -1,0 +1,34 @@
+.pon{
+    background-image:url("https://wallpaperaccess.com/full/210258.jpg");
+  padding: 100px;
+    background-repeat:no-repeat ;
+    background-size: cover;
+   height: 470px;
+   
+    
+}
+.i{
+  
+    margin-left: 72%;
+    margin-top: 3%;
+    box-shadow: 3px 3px 3px 3px;
+    width: 400px;
+    height: 450px;
+    border-radius: 10%;
+    border-color: solid black;
+}
+.ty{
+    display: inline-flex;
+}
+.re{
+    background-color:papayawhip;
+    border-radius: 5%;
+    width: 90px;
+    height: 30px;
+}
+.uy{
+    color: ghostwhite;
+}
+.ri1{
+    padding-left: 20px;
+}
